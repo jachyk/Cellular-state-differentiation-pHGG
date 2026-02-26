@@ -1,2 +1,12 @@
 # Cellular-state-differentiation-pHGG
-This repository contains all code developed for Choyka et al. "Developmental trajectories follow a spatially organized hierarchy and contribute to subtype-specific cell iden-tity programs in pediatric high-grade glioma" (unpublished)
+This repository contains all code developed for Choyka et al. "Developmental trajectories follow a spatially organized hierarchy and contribute to subtype-specific cell identity programs in pediatric high-grade glioma" (unpublished)
+
+
+**Contents**
+- 01_Build_pseudotime_trajectory.R: Setup and create pseudotime object using Monocle3
+- 02_Pseudotime_expression_dynamics.R: Analyze gene expression and cellular density across pseudotime for each subtype 
+- 03_Pseudotime_heatmap_visualization.R: Plot subtypewise pseudotime-dependent gene expression in heatmaps
+- 04_Pseudobin_construction.R: Import pseudotime values 
+- 05_Pseudotime_anchor_transfer.R:
+- 06_SPATA2_spatial_trajectory_analysis.R:
+- 07_bulk_expression_analysis.R:
