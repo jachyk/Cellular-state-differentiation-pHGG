@@ -100,7 +100,7 @@ saveRDS(
 
 
 #----- Step 08: Export pseudotime metadata and prepare plotting tables -----#
-
+# Pseudotimedata per cells will be needed in subsequent scripts
 DF_pseudo <- as.data.frame(colData(cds))
 
 dir.create("results/tables", recursive = TRUE, showWarnings = FALSE)
