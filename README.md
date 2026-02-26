@@ -9,4 +9,4 @@ This repository contains all code developed for Choyka et al. "Developmental tra
 - 04_Pseudobin_construction.R: Import pseudotime values 
 - 05_Pseudotime_anchor_transfer.R:
 - 06_SPATA2_spatial_trajectory_analysis.R:
-- 07_bulk_expression_analysis.R:
+- 07_Bulk_expression_analysis.R:
